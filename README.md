@@ -5,7 +5,7 @@ This is the repository for the data and other slides used in my talk at APRA 201
 
 My goal with the talk and with the information stored here is that every prospect researcher can have the confidence to learn and flourish in programming. My focus is on python, but the principles are the same for any language. I recommend python for prospect research because of its versatility and maturity. That doesn't mean there are other languages and hopefully as you dig deeper you'll be open to learn more than one language. Because in the end it's not about the language, but the end result. Do you feel like you can accomplish your tasks more efficiently and effectively now that you have this in your toolbelt? Programming in general is about more than doing what you are already excelling at. It's about opening opportunities to add to it and explore datasets and processes in a way that gives more insight into your data and prospects. 
 
-That being said, below is my general outline for the talk. This is of course subject to change. 
+That being said, below is my general outline (way too ambitious, but it's a good outline) for the talk. This is of course subject to change. 
 
 - Intro
     - What is Python
